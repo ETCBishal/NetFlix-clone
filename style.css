@@ -277,17 +277,14 @@ footer a {
 
   .flex-text :first-child {
     font-size: 20px;
-    /* font-size: 25px; */
   }
 
   .flex-text :nth-child(2) {
     font-size: 17px;
-    /* font-size: 20px; */
   }
 
   .flex-text :nth-child(3) {
     font-size: 17px;
-    /* font-size: 20px; */
   }
 
   nav{
